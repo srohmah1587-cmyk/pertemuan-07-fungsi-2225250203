@@ -16,3 +16,4 @@ for n in daftar_n:
     print("Hasil rumus =", hasil_rumus)
     print("Sama =", hasil_perulangan == hasil_rumus)
     print()
+    
